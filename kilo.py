@@ -7,5 +7,6 @@ def some_text_printer():
 if __name__ == '__main__':
     some_text_printer()
     some_text_printer()
+    print(123)
     
     # '6c35b666db5d5f363847f1de7e3d723728405c66'
